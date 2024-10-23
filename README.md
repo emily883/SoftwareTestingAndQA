@@ -37,8 +37,4 @@ My approach to software design starts with creating a **clear and modular archit
    ```
 3. Compile and run the unit tests with your configured Java environment.
 
-## Instructor Collaboration
-
-Ensure that the instructor has been added as a collaborator to the repository. If you encounter any issues with this step, contact the instructor directly to resolve any concerns.
-
 ---
